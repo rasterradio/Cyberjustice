@@ -118,6 +118,16 @@ Justs are female because augs adapt slightly better to female brains, and differ
 Being a Just means using whatever tools are on hand, hence buying goods. Money is traceless unlike government issued weapons (still don’t buy this)
 
 Basically write her as Nicholas Angel from Hot Fuzz (characters she speaks with will need to be lighter-hearted to offer a dynamic)
+
+—————————
+
+Illuminati names:
+the forces
+the higher-ups
+the counselors
+the guiding hand
+the committee
+good samaritan
 </Text>
         </Document>
         <Document ID="5">
@@ -326,58 +336,80 @@ Living room
         <Document ID="6"/>
         <Document ID="7">
             <Title>New Intro</Title>
-            <Text>King Yor: &quot;...My Kingdom--this great republic--means nothing unless it means the triumph of an economic system under which every royal subject shall be granted the opportunity to show the best that there is in themselves. Other governments may present you with freedom. They may present you with power. I offer you something greater: prosperity. The ability to prosper under one banner, free from the poison of foreign temptation.
+            <Text>King Yor: &quot;...My Kingdom--this great republic--means nothing unless it means the triumph of a political system under which every royal subject is given the opportunity to show the best that there is in themselves.”
 
-Commander: &quot;Another rally speech. Paranoid old coot.&quot;
+King Yor: “Other governments may present you with freedom. They may present you with power. I offer you something greater: prosperity.” 
+
+King Yor: “The ability to prosper under one banner, free from the poison of foreign power.”
+
+Chief: &quot;Another rally speech. Paranoid old coot.&quot;
+
 Zima: &quot;...&quot;
+
 Zima: &quot;Who's the target?&quot;
-Commander: &quot;Leader of a small revolutionary group. They're calling for open trade borders between nations. Getting violent at guardposts. Couple of murders.&quot;
-Commander: &quot;I'd tell you to be careful, but this is a job for the police. There's civilians inside. For the King to send a Just in, it's overkill.&quot;
-Commander: &quot;Speaking of which...here. New aug tech for targeting and vitals. Another gift from the Palace for his favourite guard dog.&quot;
+
+Chief: &quot;Leader of a Roshchian revolutionary group. They're calling for violent political revolution in their homeland. Starting riots in their capitol. Couple of murders.&quot;
+
+Chief: “This time they’ve taken the Roshcha ambassador and his dinner guests captive. They’re demanding twenty million drillos and safe passage out of the Ostrov Kingdom.
+
+Chief: &quot;I'd tell you to be careful, but this is a job for the police. There's civilians inside. For the King to send a Just in, it's overkill.&quot;
+
+Chief: &quot;Speaking of which...here. New aug tech for targeting and vitals. Another gift from the Palace for his favorite guard dog.&quot;
+
 Zima: (I ignore the remark and admire the aug, a dull band that slips over my finger.)
-Zima: &quot;He wants this spectacle to line up with his show.&quot;
-Commander: &quot;Better give him one then.&quot;
+
+Zima: “The terrorists aren’t expecting the ransom. They want a televised execution.”
+
+Zima: &quot;A bloody spectacle to line up with the King’s show. I had better give them one then.&quot;
+
 King: &quot;...Those who fail in our fight will fall in the beauty of our Kingdom's future!&quot;
+
 Zima: (I switch the display from broadcast to thermal reading. Time to get to work.)
 
-[TITLE LOGO]
+Chief: &quot;Do your thing, Just.&quot;
 
-Commander: &quot;Give em hell, Just.&quot;
+--
+
 Zima: (The ship lifts off the rain-slick tarmac and back into the storm. I twist the ring and a pulse shoots into my retinas.)
+
 &quot;SYSTEM TURN ON&quot;
 &quot;HELLO JUST [ZIMA]. WELCOME TO THE SETUP MATRIX.&quot;
 &quot;TO SERVE IS DIVINE.&quot;
 
-Zima: (I'm on the roof of the rebel building. What should I do?)
+Zima: (I'm on the roof of the penthouse. What should I do?)
 
 CHECK ROOM
+CHECK SKYLIGHT
 CHECK ELEVATOR
 CHECK FIRE ESCAPE
 EXIT TO FIRE ESCAPE
 
-Check room:
-Zima: (I'm on the helipad for the Capital Royal Hospital. The whipping of rain is blocking out the lights and sound of the nearby buildings.)
+Check room (first):
+Zima: (I'm on the helipad of the Dorogaya Hotel. The whipping of rain is blocking out the lights of the nearby buildings and the bustle of the streets below.)
 
-Check elevator:
-Zima: (This would be the fastest way down, but it's locked from the roof. I'll have to access it from another floor.)
+Check room (repeat):
+Zima: (The whipping of rain blocks out the lights of the nearby buildings, and the bustle of the streets below.)
+
+Check skylight (first):
+Zima: (The skylight sits over the main hall, but the patterns of the glass make it difficult to see what’s below. Dropping into the main room would be too risky.)
+
+Check skylight (repeat):
+Zima: (It’s too risky to drop into the main hall when I can’t see what’s below.)
+
+Check elevator (first):
+Zima: (This would be the fastest way down, but it's locked from the roof. I'll have to access the elevator from another floor.)
+
+Check elevator (repeat):
+Zima: (The doors are locked from the roof. I'll have to access the elevator from another floor.)
 
 Check fire escape:
 Zima: (The staircase reaches down several floors. Should I go down?) y/n
 
---
-Top floor:
-CHECK ROOM
-CHECK VENDING MACHINE
-CHECK ELEVATOR
-OPEN ELEVATOR
-EXIT TO ROOF
-
-Check room:
-Zima: (Photos and panes of glass lay broken on the floor. This was a fight that pushed the rebels further down the building.)
+Zima: (I move down the fire escape. This should put me on the second floor of the penthouse.)
 
 --
 
-Zima: (I’m in some kind of makeshift comms room. What should I do?)
+Zima: (I’m in a makeshift comms room. What should I do?)
 
 CHECK ROOM
 CHECK TV MONITORS
@@ -386,63 +418,59 @@ EXIT TO HALLWAY
 
 [Picking any option gives this result:]
 
-Zima: (I hear a creaking behind the door and start to turn, but it’s too late. In a flash he leaves a knife in my side. He steps back and grins.)
+Zima: (I hear a creaking behind the door and turn, but it’s too late. A figure jumps forward and plunges a knife in my side. He steps back and grins.)
 
-Zima: (I gasp, and stagger backwards. My gun drops to the floor. I try to pull it out but my hands are shaking.)
+Zima: (I gasp for air. My gun drops to the floor. I try to hold the knife, but my hands are shaking.)
 
 Zima: (I try to say something but…)
 
-Zima: (I twirl the knife in my hand and dart it at the wall next to my assailant. [Sciency stuff goes here])
+Zima: (My nanomachines send a rush of adrenaline, morphine and nootropics. My mind focuses and the pain disappears. Ciliary motility relaxes my muscles and clots the wound.)
+
+Zima: (The knife is back in my hand. I twirl it and dart it at the wall next to my petrified assailant.)
 
 Zima: “Okay, enough of the act.”
 
 [BATTLE START]
 
-[TUT 1. We’ll keep MIZA here, but we don’t need Zima to make a deal about her presence (or do we?)]  
+[TUT 1. We’ll keep MIZA here, but we don’t need Zima to make a deal about her presence]
 
 Zima: (I take my gun from the floor.)
 
 Zima: “Nobody was supposed to expect a Just coming in from the roof. What blew my cover?”
 
 CHECK ROOM
-CHECK TV MONITORS
+CHECK MONITORS
 CHECK SPEAKER
 CHECK SATELLITE
 EXIT TO HALLWAY
 
 Check room:
-Zima: (An ornate bedroom with comms equipment taking over the space. The satellite dish leaves the window open, letting rain spill onto the floor.)
+Zima: (An ornate bedroom with comms equipment taking over the space. The satellite dish pokes out the open window, spilling rain onto the carpet. The wind howls from outside.)
 
-Check tv monitors:
-First:
+Check monitors (First):
 Zima: (These monitors link to cameras on the main floor. One of the signals has been terminated, and one points to the living room.)
-Zima: (The room looks empty. There’s supposed to be a dozen armed people in this penthouse.)
+Zima: (The living room looks empty. There’s supposed to be a dozen armed people in this penthouse.)
 
-Repeat:
+Check monitors (Repeat):
 Zima: (One of the camera signals has been terminated, and one points to the living room.)
-Zima: (The room looks empty. There’s supposed to be a dozen armed people in this penthouse.)
-}
+Zima: (The living room looks empty. There’s supposed to be a dozen armed people in this penthouse.)
 
-Check speaker:
-First:
-Zima: (The speaker is hooked up to the satellite. There’s a faint hum coming from the speaker in what sounds like a room of people talking, but they’re speaking in BLAH, the official language of BLAH.)
-
-Repeat:
-Zima: (There’s a faint hum coming from the speaker. The people on the other line are speaking in BLAH, and I’m not fluent.)
-}
+Check camera (First):
+Zima: (The camera is hooked up to the satellite. The line is set to a Roshchian channel.)
 
 Check satellite:
-Zima: (A satellite dish that looks to send and receive image and text. Our assailants were using this to prepare for any intruders.)
-
+Zima: (A satellite dish ready to broadcast an execution.)
 
 
 Exit to hallway:
-Zima: (I ready my gun and peek back into the hallway. A bullet shoots across the hallway in response.)
-Zima: “Haven’t you heard of knocking?”
+Zima: (I ready my gun and peek into the hallway. A bullet shatters across the hallway in response.)
+Zima: “Ever heard of knocking?”
 
 [[Battle two, where we teach the player to use a gun.]]
 
 Zima: (I move down the hallway to the foyer. I don’t hear any voices. I peer over the banister and go down the staircase. There’s a thick smell of iron in the air.)
+
+--
 
 Zima: (Looks like I’m late to the party.)
 
@@ -452,97 +480,190 @@ CHECK MAP
 OPEN DOOR
 RETURN TO BEDROOM
 
-Check room:
-Zima: (The chandelier casts an austere light across aristocratic furniture. Our diplomat must be well paid. Curtains block any potential window attacks.)
+Check room (first):
+Zima: (The broken chandelier casts an austere light across ornate furniture. Curtains block any potential window attacks.)
 
-Check bodies:
-Zima: (Ten bodies slumped over ornate furniture. They’ve been cut to pieces with some kind of long blade.)
+Check bodies (first):
+Zima: (A group of bodies slumped over ornate furniture. The dinner guests have been shot by the terrorists, and the terrorists have been cut to pieces with a long blade. The smell of iron is overbearing.)
+
+Check bodies (repeat):
+Zima: (A group of bodies slumped over ornate furniture. The dinner guests have been shot by the terrorists, and the terrorists have been cut to pieces with a long blade.)
 
 Check map:
-Zima: (It’s a cloth map of our solar system. To the north are BLAH and the BLAH colonies. To the south in the BLAH asteroid belt is us, the Kingdom.)
+Zima: (It’s a cloth map of our solar system. To the north is the Soyuz nations, including Roshcha. To the south in the Nizhe Belt is us, the Ostrov Kingdom.)
 
+—
 
+Open door (if already talked to Vesna):
+Vesna: “Hey! Don’t go thinking you can steal all the action for yourself. Let’s go in together.”
+[[then continue with all the door kicking section]]
 
-
-Open door:
-Zima: (I kneel down and listen against the door. There’s a voice, humming on the other side.)
+Open door (first time):
+Zima: (I listen against the door. There’s a voice, humming in this room.)
 
 Zima: “Vesna?”
 
-Zima: (I open the door.)
+Vesna: “There you are, Just. Some party, eh?”
 
-Vesna: “There you are Just. Some party, eh?”
+ASK WHY SHE’S HERE (mention capitol, outer rim, chapter 3 location)
+ASK ABOUT THE BODIES
+ASK ABOUT THE AMBASSADOR
+ASK ABOUT HER SWORD (talk about augs, kingdom)
 
-Zima: “What’re you doing here? The palace assigned me to this mission.”
+Ask why she’s here:
+Zima: “What are you doing here? The palace assigned me to this mission.”
 
+Vesna: “A patrol officer at the Commercial Capitol border mentioned the Roschian’s plans, and I wanted in on the fun. It’s not fair to have the action all to yourself, Zima.”
+
+Ask her about the bodies:
+Zima: “So these bodies are your handiwork?”
+
+Vesna: “Only the terrorists. Couldn’t do a thing about the dinner guests.”
+
+Vesna: “You know how these hostage situations go: they tell you to stop, you pull out the intestines of his friends, and pretty soon there’s no more hostages to worry about.”
+
+Ask about her sword:
 Zima: (She eyes me and cleans the blood off her sword. She flicks a drop into the air and catches it with her tongue.)
 
-Vesna: “Heh, you like that?”
+Vesna: “Heh, you like it?”
 
-Vesna: “I heard a rumor about what was coming down tonight, and I wanted some of the fun. It’s no fair to have all of BLAH to yourself, Zima.”
+Vesna: “I suppose you haven’t seen me since academy training. I never leave home without this puppy.”
 
-Zima: “I’m guessing our damsel in distress is just past this door?”
+Zima: “Can never be too careful these days. Commercial Capitol’s a dangerous place.”
+
+Vesna: “And clearly you keep the Royal City in check.”
+
+Zima: “Yes, your blowing my cover only makes my job easier.”
+
+Zima: (Vesna winks.)
+
+Ask about the Ambassador:
+Zima: “And our damsel in distress is past this door?”
 
 Vesna: “Only place left I haven’t cut through.”
 
-Zima: “Then let’s make this quick and keep him alive.”
+Vesna: “You ready?” y/n
+
+No:
+Vesna: “Then don’t wander too far.” [[break dialog, return to room]]
+
+Yes:
+Zima: “Let’s make this quick and keep him alive.”
 
 Zima: (She looks towards me.)
 
 Vesna: “I’ll leave that part to you.”
 
-Zima: “Then, on the count of one… two… three…—”
+Zima: “On the count of one… two… three…—”
 
-Zima: (The two of us knock the double doors open.)
+*kick*
 
 Zima: “I wouldn’t try that if I were you.”
 
-Zima: (Our captive is tied up, held against a man in an antique military uniform. There’s a knife held up to his throat.)
+Zima: (Our captive is tied up by a man in an antique military uniform. There’s a knife held up to his throat.)
 
-Captive: “Mmpff! Hmmf!”
+Ambassador: “Mmpff! Hmmf!”
 
 Leader: “Gur gjb bs lbh unq orggre fgnl onpx, be V'yy uheg uvz.” [rot13]
 
+Vesna: “Uh hello, you no speakie Royal?”
 
-Vesna: “Uh hello, no speakie Royal?”
-
-Zima: “It’s BLAH Vesna, he can’t understand us.”
+Zima: “It’s Roshchian Vesna. He can’t understand us.”
 
 Vesna: “Then how about the international language of violence?”
 
-Captive: “Mmf!”
+Ambassador: “Mmf!”
 
-Zima: (The leader pulls his captor tight and backs away. The adjoining door opens and a group of enemy soldiers come through. I turn to face them.)
+Zima: (The leader pulls his captor tight and backs away. The adjoining door opens and a group of enemy soldiers enter.)
 
-Zima: “Great timing guys, I was just about to beat you up with my Just acquaintance—Vesna?”
+Zima: “Great timing guys, I was just about to beat you up with my Just acquaintance—”
 
-Zima: “Of course she ran off.”
+Zima: “—uh, Vesna?”
 
-[BATTLE]
+Zima: “Aaand of course, she ran off.”
+
+[Battle three]
 
 
 Zima: “Now where did Vesna and our other friends run off to?”
 
 CHECK ROOM
-CHECK [blah]
+CHECK CABINET
 CHECK DOORS
+CHECK BALCONY
 GO TO BALCONY
 
 Check room:
-First:
-Zima: “The dining room has been used as a makeshift barricade. The Ambassador must have made his stand here from the captors.”
+Zima: “The dining room has been used as a makeshift barricade. The Ambassador must have hidden in here.”
 
-Repeat:
-Zima: “The Ambassador must have made his stand in here.”
+Check cabinet (if medspray is still there):
+Zima: “A cabinet filled with various china and silverware. There’s a medspray in one of the drawers. Should I take it? Y/n
+
+Check cabinet (if medspray has been taken):
+Zima: “A cabinet filled with various china and silverware.”
 
 Check doors:
-Zima: “There’s the door to the grand hall that I came from, and the door to the kitchen that the guards came from.”
+Zima: “There’s the door to the foyer that I came from, and the door to the kitchen that the guards came from.”
 
-
-
+Check balcony:
+Zima: “An open balcony leading to the outdoor fire escape. Vesna’s bloodied footprints lead out there.”
 
 Go to balcony:
-Zima: (The wind and rain is picking up, rattling the supports of the fire escape. I make my way up the flights of stairs, listening for what might be on the roof.)
+Zima: (The wind and rain is picking up, rattling the supports of the fire escape. I make my way up the flight of stairs, listening for what might be on the roof.)
+
+--
+
+Leader: “Qba'g pbzr nal pybfre, zbanepuvfg cvt.”
+
+Zima: “Great, of course you had to have a security mech.”
+
+Zima: (Vesna is flat on her back, knocked out cold. Her leg looks broken. Our diplomat captive is hiding by Vesna.)
+
+Ambassador: “Protect me, Just! And do a better job than this one did.”
+
+Zima: “With pleasure.”
+
+[boss fight! I’ll write some broken English battle lines for the boss]
+
+Zima: “Hey Ambassador, are you alive?”
+
+Ambassador: “Yes, I suppose so…”
+
+Zima: “Then I’ll call this one in. HQ, take us home.”
+
+Chief: “**Understood, Just.**”
+
+Zima: “Vesna?”
+
+Vesna: “Mh.”
+
+Zima: “Good.”
+
+Leader: “Lbh guvax guvf vf gur raq bs nalguvat...”
+
+Leader: “*cough, cough*”
+
+Zima: “Ah, our last remaining friend. Before I go, you’ll be telling me everything about all of your friends.”
+
+Leader: “Fbba lbh'yy xabj nyy gbb jryy gur vaivfvoyr unaq”
+
+Leader: “Good Samaritan—”
+
+*Bang*
+
+Zima: (The Leader drops to the ground.)
+
+Zima: “Vesna, what the hell!”
+
+Vesna: “Bastard ruined my leg…”
+
+Commander: “Just, we are touching down. We’ll take things from here.”
+
+Zima: “…Good, because I need an aspirin.”
+
+[INTRO END]
+[TITLE LOGO]
+
 
 </Text>
         </Document>
@@ -2491,7 +2612,13 @@ Who would confront Zima about her past? King? Illuminati? Army leader? Zima fail
 
 King would try to hurt her emotionally with this information, but by then Zima has conquered it. She confronts this by saving the Prince who was thought to be dead, and learning to work with others (Justs, Prince). Has accepted that all you can do is your best and can’t hold yourself to anything higher.
 
-“It’s a good offer, you should take it. On the other hand, you’re making me want to fight some more.”</Text>
+“It’s a good offer, you should take it. On the other hand, you’re making me want to fight some more.”
+
+Fighting Leto - she’s a psychic Just who played cards with you, so her stuff would be things like debuffs, reading you mind (reacting to your battle intent before it happens),
+forcing you to take an action and you need to prepare for it
+-e.g. “you will be forced to go prone in two turns”
+-battle debuffs
+-disabling a combat action</Text>
         </Document>
         <Document ID="23">
             <Title>HQ</Title>
@@ -3025,7 +3152,7 @@ at the end you have to fight each other and the fight stops before things get se
 
 Casino: Player can visit at any time to gamble, but must gamble against the Don and convince him to bet his Illuminati key, and defeat him in the duel. As collateral, Zima bets her Just partner 
 
-Nightclub: Zima visits with Just Cool Dude, you need to talk your way through some interesting situations: drinking at the bar, Zima drying to dance, sneaking backstage to talk to the owner.  Zima meets with the Don who is aware that she is a Just and poisons her, but Zima is saved by the other Just who shows up in the nick of time. He tells everyone after that Zima partied too hard. 
+Nightclub: Zima visits with Just Cool Dude, you need to talk your way through some interesting situations: drinking at the bar, Zima drying to dance, sneaking backstage to talk to the owner.  Zima meets with the Don who is aware that she is a Just and poisons her, but Zima is saved by the other Just who shows up in the nick of time. He tells everyone after that Zima partied too hard. Calls her “Zima dude”
 
 With all keys in hand Zima and the Justs enter the Illuminati HQ in CYBERSPACE who tell them of their plan. However they can’t be destroyed in their own world so Zima and crazy onee-sama who is trapped with her in a dungeon must work together to hack terminals to make each Illuminati proxy vulnerable.
 there could be dialogue where the other Just is in awe of Zima's hacking abilities and Zima thinks &quot;I just smashed the keyboard&quot;
@@ -3297,7 +3424,7 @@ Vesna: “You’ve returned.”
 
 [[Other Just asks Zima what her weapon is named and Zima explains that her augs make her comfortable with a multitude of weapons and she prefers to be flexible with equipment]]
 
-[[One of the Just actually isn’t here—skipped the meeting because she’s too cool/chill/doesn’t care. The others begrudgingly tell Zima that she’ll have to be found (at her apartment? At the casino already? Find her during a patrol?). This character calls Zima “princess” and thinks she’s way too uptight; she’s flirty and likes pushing Zima’s buttons. Wait how is she different from the Prince? Who I still haven’t written a line for…]]
+[[One of the Just actually isn’t here—skipped the meeting because sbhe’s too cool/chill/doesn’t care. The others begrudgingly tell Zima that she’ll have to be found (at her apartment? At the casino already? Find her during a patrol?). This character calls Zima “princess” and thinks she’s way too uptight; she’s flirty and likes pushing Zima’s buttons. Wait how is she different from the Prince? Who I still haven’t written a line for…]]
 
 
 ASK ABOUT FOREMAN
@@ -3349,6 +3476,41 @@ Padat: “All we can do is believe you; that he still lives.”
         </Document>
         <Document ID="66">
             <Title>phouse1</Title>
+        </Document>
+        <Document ID="67">
+            <Title>Casino</Title>
+            <Text>CJ Act 3 - Casino
+Raster - Jan 31, 2021
+
+Casino: Player can visit at any time to gamble, but must gamble against the Don and convince him to bet his Illuminati key, and defeat him in the duel. As collateral, Zima bets her Just partner.
+
+This chapter is with Leto (Not-Char), a cool yet pleasant Just who doesn’t show her feelings (much like Zima).
+
+Minigame is 1-suit, 1v1 blackjack best of 3, with cheats
+Characters will talk throughout the blackjack game (both dialogue and battle barks)
+
+Leto’s power is psychic stuff (reads Zima’s mind at one point). 
+Helps you cheat at cards, while the enemy is cheating at cards
+Suggestions:
+-showing you the top card of the deck
+-forcing you to take an action and you need to prepare for it
+-e.g. “you will be forced to go prone in two turns”
+-battle debuffs
+-disabling a combat action
+
+-Zima goes to the casino
+-Small puzzle/conversation to get inside?
+-Gets inside, meets with Leto
+-They talk, sit down at one of the tables and go through a series of “battles” (blackjack)
+-Battles are fought against the dealer, every few battles the house brings in a different dealer and the rules change in some way
+-Zima can always optionally play hands for cash at any time
+-Can talk to Leto throughout the battles, lots of chances for character growth
+-The house cheats, but so does Zima with the help of Leto
+-Final battle, Zima bets Leto’s life, and all the chips earned thus far, for the Samaritan Key
+-At the casino there are other things to do, like slot machines?
+-Can talk to other patrons
+
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>

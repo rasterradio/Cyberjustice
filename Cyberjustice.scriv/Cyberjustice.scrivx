@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.12.0" Device="DESKTOP-L0457BT" Modified="2021-01-09 17:28:58 -0500" ModID="03EBE9D8-A8D2-4D2D-8700-5BCA3D3E1BE0">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-02-16 23:26:13 -0500" ModID="171AC92B-E151-448C-890B-EBEE75C31CE9">
     <Binder>
         <BinderItem ID="0" UUID="3153DC26-8713-4FFC-8E1A-EC8A64C1C31D" Created="2020-10-21 21:50:34 -0500" Modified="2020-10-21 21:50:34 -0500" Type="DraftFolder">
             <Title>Draft</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="4" UUID="27289D5D-10A3-436F-9F2C-0AEB86D7F72C" Created="2020-10-21 21:52:09 -0500" Modified="2020-10-22 12:26:13 -0500" Type="Text">
+                <BinderItem ID="4" UUID="27289D5D-10A3-436F-9F2C-0AEB86D7F72C" Created="2020-10-21 21:52:09 -0500" Modified="2021-01-30 21:30:29 -0500" Type="Text">
                     <Title>Story Doc</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8021,0</TextSelection>
+                        <TextSelection>11445,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -36,7 +36,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8042,0</TextSelection>
+                        <TextSelection>1800,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -91,14 +91,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" UUID="95F39C2B-F916-4390-8249-38F8996989C5" Created="2020-10-21 23:47:32 -0500" Modified="2020-10-31 22:34:46 -0500" Type="Text">
+                <BinderItem ID="22" UUID="95F39C2B-F916-4390-8249-38F8996989C5" Created="2020-10-21 23:47:32 -0500" Modified="2021-02-01 00:04:20 -0500" Type="Text">
                     <Title>Chapter 6 ideas</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2415,0</TextSelection>
+                        <TextSelection>2748,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -111,35 +111,25 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="7" UUID="1094A929-D577-4BA6-89B3-9719D9CCF202" Created="2020-10-21 21:53:10 -0500" Modified="2021-01-09 17:28:58 -0500" Type="Text">
+                        <BinderItem ID="7" UUID="1094A929-D577-4BA6-89B3-9719D9CCF202" Created="2020-10-21 21:53:10 -0500" Modified="2021-02-16 23:26:07 -0500" Type="Text">
                             <Title>New Intro</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7606,0</TextSelection>
+                                <TextSelection>11014,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="12" UUID="96787608-3C75-487C-B4CC-D9B728E54994" Created="2020-10-21 21:55:37 -0500" Modified="2020-10-21 21:57:57 -0500" Type="Text">
-                            <Title>Old intro</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>593,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="11" UUID="0E4BCE39-C95C-41BE-A8AD-56CC73FE7103" Created="2020-10-21 21:54:55 -0500" Modified="2020-10-22 00:30:57 -0500" Type="Text">
+                        <BinderItem ID="11" UUID="0E4BCE39-C95C-41BE-A8AD-56CC73FE7103" Created="2020-10-21 21:54:55 -0500" Modified="2021-01-31 17:34:46 -0500" Type="Text">
                             <Title>Apartment</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5356,26</TextSelection>
+                                <TextSelection>2163,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -150,7 +140,6 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5487,5</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -202,7 +191,6 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="10688">10650,38</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -234,7 +222,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="6014">5930,84</TextSelection>
+                                <TextSelection>5907,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -258,13 +246,23 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="38" UUID="B0D368E6-992C-40CC-BB9F-69DCE728A7C9" Created="2020-10-22 00:39:37 -0500" Modified="2020-10-22 00:39:52 -0500" Type="Text">
+                        <BinderItem ID="38" UUID="B0D368E6-992C-40CC-BB9F-69DCE728A7C9" Created="2020-10-22 00:39:37 -0500" Modified="2021-02-01 13:22:07 -0500" Type="Text">
                             <Title>Planning doc</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3049,0</TextSelection>
+                                <TextSelection>2449,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="67" UUID="1E17B476-43AA-4B9D-B18E-3BCFF712EEAB" Created="2021-01-31 23:31:43 -0500" Modified="2021-02-01 12:40:10 -0500" Type="Text">
+                            <Title>Casino</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1531,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -289,13 +287,24 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="62" UUID="FE026FEA-6330-4972-A7F4-E1B37515F8CB" Created="2020-10-22 12:24:09 -0500" Modified="2020-10-22 12:24:15 -0500" Type="Text">
+                        <BinderItem ID="62" UUID="FE026FEA-6330-4972-A7F4-E1B37515F8CB" Created="2020-10-22 12:24:09 -0500" Modified="2021-01-31 23:31:06 -0500" Type="Text">
                             <Title>Scraps</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>253,0</TextSelection>
+                                <TextSelection>254,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" UUID="96787608-3C75-487C-B4CC-D9B728E54994" Created="2020-10-21 21:55:37 -0500" Modified="2020-10-21 21:57:57 -0500" Type="Text">
+                            <Title>Old intro</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>593,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -730,7 +739,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="94" Characters="514" Date="2021-01-09 17:12:45 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2021-02-16 22:10:51 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B5F4CC1C-D0AD-4FCB-8CAB-2CB63CF0E070" Color="0.901961 0.917647 0.933333">
