@@ -342,19 +342,19 @@ King Yor: “Other governments may present you with freedom. They may present yo
 
 King Yor: “The ability to prosper under one banner, free from the poison of foreign power.”
 
-Chief: &quot;Another rally speech. Paranoid old coot.&quot;
+Officer: &quot;Another rally speech. Paranoid old coot.&quot;
 
 Zima: &quot;...&quot;
 
 Zima: &quot;Who's the target?&quot;
 
-Chief: &quot;Leader of a Roshchian revolutionary group. They're calling for violent political revolution in their homeland. Starting riots in their capitol. Couple of murders.&quot;
+Officer: &quot;Leader of a Roshchian revolutionary group. They're calling for violent political revolution in their homeland. Starting riots in their capitol. Couple of murders.&quot;
 
-Chief: “This time they’ve taken the Roshcha ambassador and his dinner guests captive. They’re demanding twenty million drillos and safe passage out of the Ostrov Kingdom.
+Officer: “This time they’ve taken the Roshcha ambassador and his dinner guests captive. They’re demanding twenty million drillos and safe passage out of the Ostrov Kingdom.
 
-Chief: &quot;I'd tell you to be careful, but this is a job for the police. There's civilians inside. For the King to send a Just in, it's overkill.&quot;
+Officer: &quot;I'd tell you to be careful, but this is a job for the police. There's civilians inside. For the King to send a Just in, it's overkill.&quot;
 
-Chief: &quot;Speaking of which...here. New aug tech for targeting and vitals. Another gift from the Palace for his favorite guard dog.&quot;
+Officer: &quot;Speaking of which...here. New aug tech for targeting and vitals. Another gift from the Palace for his favorite guard dog.&quot;
 
 Zima: (I ignore the remark and admire the aug, a dull band that slips over my finger.)
 
@@ -366,7 +366,7 @@ King: &quot;...Those who fail in our fight will fall in the beauty of our Kingdo
 
 Zima: (I switch the display from broadcast to thermal reading. Time to get to work.)
 
-Chief: &quot;Do your thing, Just.&quot;
+Officer: &quot;Do your thing, Just.&quot;
 
 --
 
@@ -424,7 +424,7 @@ Zima: (I gasp for air. My gun drops to the floor. I try to hold the knife, but m
 
 Zima: (I try to say something but…)
 
-Zima: (My nanomachines send a rush of adrenaline, morphine and nootropics. My mind focuses and the pain disappears. Ciliary motility relaxes my muscles and clots the wound.)
+Zima: (My nanomachines send a rush of adrenaline, morphine and nootropics. My mind focuses and the pain disappears. Ciliary motility relaxes my muscles and the wound clots.)
 
 Zima: (The knife is back in my hand. I twirl it and dart it at the wall next to my petrified assailant.)
 
@@ -490,7 +490,7 @@ Check bodies (repeat):
 Zima: (A group of bodies slumped over ornate furniture. The dinner guests have been shot by the terrorists, and the terrorists have been cut to pieces with a long blade.)
 
 Check map:
-Zima: (It’s a cloth map of our solar system. To the north is the Soyuz nations, including Roshcha. To the south in the Nizhe Belt is us, the Ostrov Kingdom.)
+Zima: (It’s a cloth map of our solar system. To the north are the Soyuz nations, including Roshcha. To the south in the Nizhe Belt is us, the Ostrov Kingdom.)
 
 —
 
@@ -568,7 +568,7 @@ Leader: “Gur gjb bs lbh unq orggre fgnl onpx, be V'yy uheg uvz.” [rot13]
 
 Vesna: “Uh hello, you no speakie Royal?”
 
-Zima: “It’s Roshchian Vesna. He can’t understand us.”
+Zima: “It’s Roshchian, Vesna. He can’t understand us.”
 
 Vesna: “Then how about the international language of violence?”
 
@@ -613,11 +613,15 @@ Zima: (The wind and rain is picking up, rattling the supports of the fire escape
 
 --
 
-Leader: “Qba'g pbzr nal pybfre, zbanepuvfg cvt.”
+Leader: “Qba'g pbzr nal pybfre, zbanepuvfg cvt. Monarchist pig.”
+
+Skorpion: “HOSTILE PRESENCES DETECTED”
 
 Zima: “Great, of course you had to have a security mech.”
 
-Zima: (Vesna is flat on her back, knocked out cold. Her leg looks broken. Our diplomat captive is hiding by Vesna.)
+Zima: (Vesna is on the ground, unconscious. Her leg looks broken. The ambassador is hiding by Vesna.)
+
+Skorpion: “PREPARE TO SUBMIT TO THE GLORY OF THE KINGDOM”
 
 Ambassador: “Protect me, Just! And do a better job than this one did.”
 
@@ -631,7 +635,7 @@ Ambassador: “Yes, I suppose so…”
 
 Zima: “Then I’ll call this one in. HQ, take us home.”
 
-Chief: “**Understood, Just.**”
+Officer: “**Understood, Just.**”
 
 Zima: “Vesna?”
 
@@ -645,27 +649,22 @@ Leader: “*cough, cough*”
 
 Zima: “Ah, our last remaining friend. Before I go, you’ll be telling me everything about all of your friends.”
 
-Leader: “Fbba lbh'yy xabj nyy gbb jryy gur vaivfvoyr unaq”
+Leader: “Fbba lbh'yy xabj nyy gbb jryy gur vaivfvoyr unaq...”
 
 Leader: “Good Samaritan—”
 
-*Bang*
+*BLAM*
 
-Zima: (The Leader drops to the ground.)
-
-Zima: “Vesna, what the hell!”
+Zima: “Vesna, what the hell! He’s dead!”
 
 Vesna: “Bastard ruined my leg…”
 
-Commander: “Just, we are touching down. We’ll take things from here.”
+Officer: “Just Zima, the cleanup crew is touching down. We’ll take things from here.”
 
 Zima: “…Good, because I need an aspirin.”
 
 [INTRO END]
-[TITLE LOGO]
-
-
-</Text>
+[TITLE LOGO]</Text>
         </Document>
         <Document ID="8">
             <Title>Palace</Title>
@@ -3485,7 +3484,7 @@ Padat: “All we can do is believe you; that he still lives.”
             <Title>phouse1</Title>
         </Document>
         <Document ID="67">
-            <Title>Casino</Title>
+            <Title>Casino planning</Title>
             <Text>CJ Act 3 - Casino
 Raster - Jan 31, 2021
 
@@ -3494,7 +3493,7 @@ Casino: Player can visit at any time to gamble, but must gamble against the Don 
 This chapter is with Leto (Not-Char), a cool yet pleasant Just who doesn’t show her feelings (much like Zima).
 
 Minigame is 1-suit, 1v1 blackjack best of 3, with cheats
-Characters will talk throughout the blackjack game (both dialogue and battle barks)
+Characters will talk throughout the blackjack game (both dialog and battle barks)
 
 Leto’s power is psychic stuff (reads Zima’s mind at one point). 
 Helps you cheat at cards, while the enemy is cheating at cards
@@ -3502,8 +3501,9 @@ Suggestions:
 -showing you the top card of the deck
 -forcing you to take an action and you need to prepare for it
 -e.g. “you will be forced to go prone in two turns”
--battle debuffs
+-battle buffs/debuffs
 -disabling a combat action
+-”Zima, the enemy can’t block!”
 
 -Zima goes to the casino
 -Small puzzle/conversation to get inside?
@@ -3514,9 +3514,84 @@ Suggestions:
 -Can talk to Leto throughout the battles, lots of chances for character growth
 -The house cheats, but so does Zima with the help of Leto
 -Final battle, Zima bets Leto’s life, and all the chips earned thus far, for the Samaritan Key
--At the casino there are other things to do, like slot machines?
 -Can talk to other patrons
 
+Main hall:
+-Talk with leto
+-Play table
+-Talk to cashier (cash out, exchange chips for prizes)
+-Exit
+-Check area
+-check a bunch of other stuff
+
+—talk to patrons
+-talk to bartender (buy a drink, gossip)
+
+Casino will need to be broken up into two rooms:
+Gambling zone and cash/bar/band zone
+
+Gambling Zone:
+-Talk with Leto
+-Play table
+-Check room
+-Go to Entrance
+
+Cash zone:
+-check room
+-talk with leto
+-talk to patrons
+-talk to cashier
+-go to tables
+-exit
+
+Leto is in both “rooms”, can be talked to as an object in one but can appear in conversations in the other
+
+Zima plays a round she can't win
+Chooses to beat up the owner instead
+&quot;anybody else owe this guy?&quot;
+people in the casino beat on him as Zima and Leto escape
+
+Zima can't win on the final round because the house asks her concentrating friend to stand aside 
+
+
+
+Blin! (Fudge!)
+
+What will Leto’s personality be like?
+Not-Char
+
+Just Leto:
+“Cards are a gentleman’s game—if you can read a gambler’s mind, you read into their soul.”
+“I care to waste little energy on fighting. But I won’t stand for injustice!”
+Zima (thinks something), Leto responds because she read Zima’s mind
+“It is the challenge, not the victory, that is important.”
+Russian aristocrat, when she gets nervous, excited, angry, etc she uses Russian slang. “Blin! I lost!”
+Quite loyal and holds all Just and authority figures in respect. Also holds deep grudges. Enjoys engaging in games of wit and psychological warfare. A prideful Just (unlike Zima who is humble)
+
+But the question I need to ask with every Just is: what are they as a cop? What do they say about being a cop?
+Zima: doing the right thing is difficult, a cop’s duty lies with her government and not toward civilians, cops have to be willing to risk their lives. Being a cop is a lifestyle and requires diligent training for optimal job performance.
+Vesna: cops are as flawed as normal people are. They can be snobbish, prone to emotional impulse, yet they hold the guns and are responsible for our lives.
+Padat: some cops come from lives of injustice, and do what they do to change society for the better
+Osen: some cops just want to shoot things.
+Leto, who is psychic, nonviolent, aristocratic: A cop’s duty is to maintain law and order above all else, and this must be done with minimal damage to anyone and ideally, minimum intervention from the police.
+Veder: being a cop is just a job—you get the job done and punch out the clock. Thinks Zima takes it too seriously
+
+This puts King and Prince above Justs, they are royalty. King will do anything to preserve his power as he believes that will be the best for his citizens. The Just are muscle to make that happen. For the Prince the Just are loyal followers that he holds in equal regard, but for less selfish reasons</Text>
+        </Document>
+        <Document ID="68">
+            <Title>Casino</Title>
+            <Text>ACT 3 - CASINO
+Mar 24 2021
+
+[Note: Primorie is a real gambling region in Russia. Need a new name.]
+
+Zima: (I’m at the Primorie Casino. What should I do?)
+
+CHECK ROOM
+TALK TO PATRONS
+TALK TO CASHIER
+GO TO TABLES
+EXIT TO MAP
 </Text>
         </Document>
     </Documents>
