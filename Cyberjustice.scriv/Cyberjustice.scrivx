@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-03-24 21:41:54 -0400" ModID="8941FA75-9EF0-44BF-A5C2-3D06AB504DF8">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-03-24 23:57:09 -0400" ModID="54C9B015-AB35-43B1-856B-D5E5E7A2BE2C">
     <Binder>
         <BinderItem ID="0" UUID="3153DC26-8713-4FFC-8E1A-EC8A64C1C31D" Created="2020-10-21 22:50:34 -0400" Modified="2020-10-21 22:50:34 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -191,6 +191,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection Caret="2564">2559,5</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -245,8 +246,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="38" UUID="B0D368E6-992C-40CC-BB9F-69DCE728A7C9" Created="2020-10-22 01:39:37 -0400" Modified="2021-02-01 13:22:07 -0400" Type="Text">
-                            <Title>Planning doc</Title>
+                        <BinderItem ID="38" UUID="B0D368E6-992C-40CC-BB9F-69DCE728A7C9" Created="2020-10-22 01:39:37 -0400" Modified="2021-03-24 21:58:54 -0400" Type="Text">
+                            <Title>Ch3 Planning doc</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -265,13 +266,13 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" UUID="3D2C3E88-9FD1-40E6-9B4B-C2C5BE47108D" Created="2021-03-24 20:59:42 -0400" Modified="2021-03-24 21:41:24 -0400" Type="Text">
+                        <BinderItem ID="68" UUID="3D2C3E88-9FD1-40E6-9B4B-C2C5BE47108D" Created="2021-03-24 20:59:42 -0400" Modified="2021-03-24 23:44:05 -0400" Type="Text">
                             <Title>Casino</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>210,0</TextSelection>
+                                <TextSelection>1104,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -748,7 +749,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="72" Characters="390" Date="2021-03-24 20:25:59 -0400"/>
+        <PreviousSession Words="219" Characters="1272" Date="2021-03-24 20:25:59 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B5F4CC1C-D0AD-4FCB-8CAB-2CB63CF0E070" Color="0.901961 0.917647 0.933333">

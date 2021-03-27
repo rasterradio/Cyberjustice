@@ -3134,7 +3134,7 @@ Army leader: some kind of nutso MGS villain, believes in the mighty ruling over 
             <Title>Planning doc</Title>
         </Document>
         <Document ID="38">
-            <Title>Planning doc</Title>
+            <Title>Ch3 Planning doc</Title>
             <Text>Cyberjustice Chapter 3 Planning Doc
 May 10 2020, Raster
 
@@ -3587,11 +3587,56 @@ Mar 24 2021
 
 Zima: (I’m at the Primorie Casino. What should I do?)
 
+Or maybe instead:
+
+Cashier: “Welcome to Primorie Casino ma’am. Might I see your ID?”
+
+Zima: “Zima, Royal Just.”
+
+Cashier: “Ah. Um. Yes miss Just, I believe you’ll find everything up to code here. Come right in.”
+
 CHECK ROOM
-TALK TO PATRONS
 TALK TO CASHIER
 GO TO TABLES
 EXIT TO MAP
+
+Check room:
+Zima: ()
+
+Talk to cashier:
+Cashier: “
+-Cash in chips
+-Buy chips
+-Ask about casino
+-Ask about commercial capitol
+
+Cash in chips:
+Cashier: “Cashing in will give you X royals. Is that ok?”
+  Y:
+Cashier: “And here you are.”
+
+Buy chips:
+  Cashier: “One chip is X royals. How many would you like to buy?”
+On purchase:
+  Cashier: “Good luck!”
+}
+
+Go to tables:
+—
+CHECK ROOM
+PLAY TABLE
+  TALK TO PATRONS
+  RETURN TO ENTRANCE
+
+Check room:
+Zima: (Patrons murmur back and forth under the jingle of slot machines. There’s a strong smell of perfume and tobacco in the lounge.)
+
+Play table:
+[[How to organize “for fun” tables from story tables?]]
+
+Talk to patrons:
+First time:
+Patron: “
 </Text>
         </Document>
     </Documents>
