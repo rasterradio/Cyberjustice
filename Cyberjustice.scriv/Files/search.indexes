@@ -3505,6 +3505,8 @@ Suggestions:
 -disabling a combat action
 -”Zima, the enemy can’t block!”
 
+
+
 -Zima goes to the casino
 -Small puzzle/conversation to get inside?
 -Gets inside, meets with Leto
@@ -3637,7 +3639,18 @@ Play table:
 Talk to patrons:
 First time:
 Patron: “
+
+Zima would ask stuff like “Does the house cheat?”
+“Do you gamble here often?”
+“What can you tell me about the owner of the casino?”
+“Any poker tips?”hh
 </Text>
+        </Document>
+        <Document ID="69">
+            <Title>casino</Title>
+        </Document>
+        <Document ID="70">
+            <Title>blackjack</Title>
         </Document>
     </Documents>
 </SearchIndexes>

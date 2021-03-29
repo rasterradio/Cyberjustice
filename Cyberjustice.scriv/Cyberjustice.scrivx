@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-03-24 23:57:09 -0400" ModID="54C9B015-AB35-43B1-856B-D5E5E7A2BE2C">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-03-29 09:52:22 -0400" ModID="7586C726-52E0-461F-BE8A-777136FFA8A3">
     <Binder>
         <BinderItem ID="0" UUID="3153DC26-8713-4FFC-8E1A-EC8A64C1C31D" Created="2020-10-21 22:50:34 -0400" Modified="2020-10-21 22:50:34 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -256,23 +256,23 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="67" UUID="1E17B476-43AA-4B9D-B18E-3BCFF712EEAB" Created="2021-01-31 23:31:43 -0400" Modified="2021-03-24 21:41:53 -0400" Type="Text">
+                        <BinderItem ID="67" UUID="1E17B476-43AA-4B9D-B18E-3BCFF712EEAB" Created="2021-01-31 23:31:43 -0400" Modified="2021-03-28 21:48:44 -0400" Type="Text">
                             <Title>Casino planning</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1949,0</TextSelection>
+                                <TextSelection>864,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" UUID="3D2C3E88-9FD1-40E6-9B4B-C2C5BE47108D" Created="2021-03-24 20:59:42 -0400" Modified="2021-03-24 23:44:05 -0400" Type="Text">
+                        <BinderItem ID="68" UUID="3D2C3E88-9FD1-40E6-9B4B-C2C5BE47108D" Created="2021-03-24 20:59:42 -0400" Modified="2021-03-27 19:48:55 -0400" Type="Text">
                             <Title>Casino</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1104,0</TextSelection>
+                                <TextSelection>1257,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -358,6 +358,28 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem ID="70" UUID="A7A57AA2-B10A-4CD1-B75B-EFC0C6C923E7" Created="2021-03-28 21:49:16 -0400" Modified="2021-03-28 21:49:16 -0400" Type="Image">
+                    <Title>blackjack</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="69" UUID="55AADCAC-1942-4B57-94CE-F951761A64AB" Created="2021-03-28 21:49:42 -0400" Modified="2021-03-28 21:49:42 -0400" Type="Image">
+                    <Title>casino</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
                 <BinderItem ID="32" UUID="84421FDD-C3D1-4AE7-B170-F4C1A067973C" Created="2020-06-11 23:27:39 -0400" Modified="2019-03-24 00:05:29 -0400" Type="Image">
                     <Title>kingdom_locations</Title>
                     <MetaData>
@@ -749,7 +771,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="219" Characters="1272" Date="2021-03-24 20:25:59 -0400"/>
+        <PreviousSession Words="0" Characters="2" Date="2021-03-28 21:07:55 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B5F4CC1C-D0AD-4FCB-8CAB-2CB63CF0E070" Color="0.901961 0.917647 0.933333">
