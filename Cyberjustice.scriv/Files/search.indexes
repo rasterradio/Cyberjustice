@@ -3029,7 +3029,9 @@ Zima meets with King and while he’s in a meeting Prince chats with her, doesn�
 
 Add a bit in Zima's apartment about her being beat up, showering washes off some blood and she mentions her bruises, etc
 
-King will mention Zima's failure from the intro but forgive her, Prince won't mind. Here they will talk about what was foreshadowed by the rebel leader.</Text>
+King will mention Zima's failure from the intro but forgive her, Prince won't mind. Here they will talk about what was foreshadowed by the rebel leader.
+
+In Zima’s apartment she keeps plants. Hot Fuzz and Armitage III. She likes the routine of watering the plant everyday, how it needs her,  doesn’t talk, etc. Player can water the plant in ch1 and Zima will comment on it later on in the game.</Text>
         </Document>
         <Document ID="27">
             <Title>Chapter 2 ideas</Title>
@@ -3509,6 +3511,7 @@ Suggestions:
 
 -Zima goes to the casino
 -Small puzzle/conversation to get inside?
+-Leto introduces herself with a card trick
 -Gets inside, meets with Leto
 -They talk, sit down at one of the tables and go through a series of “battles” (blackjack)
 -Battles are fought against the dealer, every few battles the house brings in a different dealer and the rules change in some way
@@ -3629,6 +3632,7 @@ Go to tables:
 —
 CHECK ROOM
 PLAY TABLE
+TALK TO LETO [not available at first]
   TALK TO PATRONS
   RETURN TO ENTRANCE
 
@@ -3636,7 +3640,11 @@ Check room:
 Zima: (Patrons murmur back and forth under the jingle of slot machines. There’s a strong smell of perfume and tobacco in the lounge.)
 
 Play table:
-[[How to organize “for fun” tables from story tables?]]
+Zima: (Should I play for fun or for the key?) Fun/Key/Leave
+If fun or key:
+Zima: “Hey, good luck charm.”
+Leto: “I’m here.”
+[[need a bunch of phrases for calling Leto over]]
 
 Talk to patrons:
 First time:
@@ -3645,7 +3653,22 @@ Patron: “
 Zima would ask stuff like “Does the house cheat?”
 “Do you gamble here often?”
 “What can you tell me about the owner of the casino?”
-“Any poker tips?”hh
+“Any blackjack tips?”
+
+“Pick a card, Madam.”
+  “Leto, we don’t have time for this.”
+“Nonsense. “
+“Are you even armed? I’ll need your help to send this place packing.”
+  “That won’t be necessary. Zima, you’ve stepped into my world. I have a way of doing things that is more… subtle.”
+(She smiles and pulls a card. The eight of diamonds, as I had chosen.)
+“You wish for something from this casino’s owner. I say why risk our lives, and more importantly those of these innocent patrons, and beat this casino at its own game.”
+  “And leverage my skills as a Just.”
+“And what would those skills be, beyond parlor card tricks?”
+  (A voice echoes through my mind.)
+  (”Tricks like this. Powers of suggestion. Could change your luck.”)
+“My my. But if things get hairy, all bets are off.”
+
+
 </Text>
         </Document>
         <Document ID="69">
