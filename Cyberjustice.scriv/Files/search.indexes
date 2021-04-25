@@ -3655,6 +3655,19 @@ Zima would ask stuff like “Does the house cheat?”
 “What can you tell me about the owner of the casino?”
 “Any blackjack tips?”
 
+Talk to Leto:
+Ask about power:
+Zima: “How does your mind power work? It’s like my Brainjack, but more subtle.
+I can give them subliminal commands and read their thoughts.
+If it’s necessary, I can send a violent scramble much like your Brainjack.
+[[raises question—does Zima have the brainjack due to an aug? Was she taught it by someone?]]
+
+Ask about King:
+Ask about Prince:
+Ask about other Justs:
+Ask about casino:
+Ask about Primorie:
+
 “Pick a card, Madam.”
   “Leto, we don’t have time for this.”
 “Nonsense. And put the card back in the deck, please.“
@@ -3682,9 +3695,15 @@ Zima: “If we’re playing by your rules, we need a way to bring Primorie out t
 Leto: “Then you’d better go all-in on each hand. And make no mistakes.”
 “During a round of cards I can show you the top card of the deck, and any face-down cards on the table.”
 “I can also persuade the dealer to draw an extra card per round. Anything more than that and it would expose our cover.”
-“I have to stay close to the table and keep my eyes closed for the ability to work. 
+“I have to stay close to the table and keep my eyes closed for the ability to work.”
+“Here, take my chips to start you off, and don’t think about gambling these on anything other than the key.”
 
-</Text>
+“Deal me.”
+[Blackjack round one]
+[Zima and Leto have brief conversations during each blackjack game]
+
+Leto trying to profile Zima. “I haven’t quite figured you out… do you prefer ___? What do you really make of ___, I wonder?”
+Leto works conversations</Text>
         </Document>
         <Document ID="69">
             <Title>casino</Title>
