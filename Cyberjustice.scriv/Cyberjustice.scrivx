@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-04-24 22:14:13 -0400" ModID="3EA7C890-4EEB-4EF8-9489-7E254D7E5F96">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-04-25 19:29:46 -0400" ModID="0962E993-C51F-4E80-A08C-9F72DB5A6C90">
     <Binder>
         <BinderItem ID="0" UUID="3153DC26-8713-4FFC-8E1A-EC8A64C1C31D" Created="2020-10-21 22:50:34 -0400" Modified="2020-10-21 22:50:34 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -347,6 +347,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>601,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="71" UUID="B0613A74-BA5A-49C9-AC3E-DCBDAA6F7324" Created="2021-04-25 13:04:40 -0400" Modified="2021-04-25 19:29:46 -0400" Type="Text">
+                    <Title>Policenauts Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2585,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -771,7 +781,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="797" Date="2021-04-24 20:42:40 -0400"/>
+        <PreviousSession Words="453" Characters="2728" Date="2021-04-25 13:04:29 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B5F4CC1C-D0AD-4FCB-8CAB-2CB63CF0E070" Color="0.901961 0.917647 0.933333">
