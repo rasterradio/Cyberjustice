@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-04-25 19:29:46 -0400" ModID="0962E993-C51F-4E80-A08C-9F72DB5A6C90">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-L0457BT" Modified="2021-05-23 16:22:07 -0400" ModID="CB87B277-342E-4408-AF2F-F18425E6F501">
     <Binder>
         <BinderItem ID="0" UUID="3153DC26-8713-4FFC-8E1A-EC8A64C1C31D" Created="2020-10-21 22:50:34 -0400" Modified="2020-10-21 22:50:34 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -368,6 +368,39 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem ID="74" UUID="C4C5C472-43E6-4D57-A0E2-87300A9D295B" Created="2021-05-23 16:20:14 -0400" Modified="2021-05-23 16:20:14 -0400" Type="Image">
+                    <Title>casino3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="73" UUID="13AA1413-FDF4-4FF9-B6A6-1901E52160BE" Created="2021-05-23 16:19:58 -0400" Modified="2021-05-23 16:19:58 -0400" Type="Image">
+                    <Title>casino2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="72" UUID="169D1612-E2EA-4FE9-BC82-3C4BE6335C0B" Created="2021-05-23 16:19:41 -0400" Modified="2021-05-23 16:19:41 -0400" Type="Image">
+                    <Title>casino1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
                 <BinderItem ID="70" UUID="A7A57AA2-B10A-4CD1-B75B-EFC0C6C923E7" Created="2021-03-28 21:49:16 -0400" Modified="2021-03-28 21:49:16 -0400" Type="Image">
                     <Title>blackjack</Title>
                     <MetaData>
@@ -781,7 +814,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="453" Characters="2728" Date="2021-04-25 13:04:29 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2021-05-23 16:18:48 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B5F4CC1C-D0AD-4FCB-8CAB-2CB63CF0E070" Color="0.901961 0.917647 0.933333">
