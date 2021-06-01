@@ -3616,6 +3616,7 @@ Cashier: “
 -Buy chips
 -Ask about casino
 -Ask about commercial capitol
+-Show photo of ringed woman
 
 Cash in chips:
 Cashier: “Cashing in will give you X royals. Is that ok?”
@@ -3626,7 +3627,9 @@ Buy chips:
   Cashier: “One chip is X royals. How many would you like to buy?”
 On purchase:
   Cashier: “Good luck!”
-}
+
+Ask about Casino:
+Cashier: “Primorie Casino is the largest gambling casino in the whole Kingdom. Gambling is only legal in the Commercial Capital, so we face stiff competition and welcome patrons from all around.
 
 Go to tables:
 —
@@ -3749,7 +3752,9 @@ Leto works conversations</Text>
 
 -Ask about items in the room, or sci-fi topics of the world. “Ask about the facility” is good if Zima isn’t familiar
 
--Asking about something really important can be broken up into multiple topics, like “Ask about Hojo’s job”, “Ask about Hojo’s daughter”, etc</Text>
+-Asking about something really important can be broken up into multiple topics, like “Ask about Hojo’s job”, “Ask about Hojo’s daughter”, etc
+
+-Investigating the environment, characters, etc with the other Just around can have them provide more details about the subject. E.g. “I heard the place was designed by a famous architect from Outer Rim.”</Text>
         </Document>
         <Document ID="72">
             <Title>casino1</Title>
