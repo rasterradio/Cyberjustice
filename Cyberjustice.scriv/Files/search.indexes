@@ -3616,7 +3616,7 @@ Cashier: “
 -Buy chips
 -Ask about casino
 -Ask about commercial capitol
--Show photo of ringed woman
+-Ask about Leto
 
 Cash in chips:
 Cashier: “Cashing in will give you X royals. Is that ok?”
@@ -3630,6 +3630,22 @@ On purchase:
 
 Ask about Casino:
 Cashier: “Primorie Casino is the largest gambling casino in the whole Kingdom. Gambling is only legal in the Commercial Capital, so we face stiff competition and welcome patrons from all around.
+
+Ask about Leto:
+Before meeting Leto:
+Zima: “Have you seen another Just officer around here?”
+Cashier: “Yes, Miss Leto is an esteemed patron of Primorie. She is probably around here somewhere.”
+  Zima: “Leto… esteemed patron?”
+
+Then:
+Zima: “Leto is an esteemed Patron of Primorie?”
+Cashier: “Why yes, Miss Leto is a longtime customer and an invaluable asset to our business.”
+  Cashier: “She keeps the peace around here. And she’s rewarded handsomely.”
+  Zima: (That doesn’t sound like the Leto I know.)
+
+Then:
+Zima: “What do you think of that Just, Leto?”
+Cashier: “She’s deadly capable. It’s strange. I’ve never seen her lift a finger, and her smile is so soft, but she has the ability to deescalate any problem Primorie has ever had with a customer that wouldn’t pay.”
 
 Go to tables:
 —
@@ -3660,10 +3676,10 @@ Zima would ask stuff like “Does the house cheat?”
 
 Talk to Leto:
 Ask about power:
-Zima: “How does your mind power work? It’s like my Brainjack, but more subtle.
-I can give them subliminal commands and read their thoughts.
-If it’s necessary, I can send a violent scramble much like your Brainjack.
-[[raises question—does Zima have the brainjack due to an aug? Was she taught it by someone?]]
+Zima: “How does your mind power work?”
+Leto: “It’s like your Brainjack, but more subtle.”
+Leto: “I can send people subliminal commands and read their thoughts.”
+Leto: “If necessary, I can send a violent scramble to disorient a foe.”
 
 Ask about King:
 Ask about Prince:
