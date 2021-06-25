@@ -3592,15 +3592,17 @@ Mar 24 2021
 
 [Note: Primorie is a real gambling region in Russia. Need a new name.]
 
-Zima: (I’m at the Primorie Casino. What should I do?)
-
-Or maybe instead:
-
 Cashier: “Welcome to Primorie Casino ma’am. Might I see your ID?”
 
 Zima: “Zima, Royal Just.”
 
 Cashier: “Ah. Um. Yes miss Just, I believe you’ll find everything up to code here. Come right in.”
+
+Cashier: “Shall I call Mister Primorie for you?”
+
+  Zima: “Huh? No, I’m here on business.”
+
+Cashier: “Ah, of course, business. Enjoy your stay.”
 
 CHECK ROOM
 TALK TO CASHIER
@@ -3656,6 +3658,9 @@ TALK TO LETO [not available at first]
   RETURN TO ENTRANCE
 
 Check room:
+If you haven’t found Leto yet:
+Zima: (Patrons murmur back and forth under the jingle of slot machines. There’s a strong smell of perfume and tobacco in the lounge. Leto must be around here somewhere.)
+Else:
 Zima: (Patrons murmur back and forth under the jingle of slot machines. There’s a strong smell of perfume and tobacco in the lounge.)
 
 Play table:
@@ -3666,19 +3671,30 @@ Leto: “I’m here.”
 [[need a bunch of phrases for calling Leto over]]
 
 Talk to patrons:
-First time:
-Patron: “
+Zima: “Do you often see that Just gambling here?”
+  Patron: “She’s here all the time. Any regular knows that when that Just is around, do what the House tells you to do.”
+Zima: “And what does the House tell you to do?”
+Patron: “Don’t cheat, don’t lie, pay your tab. Otherwise you’ll be out on your ass… or worse.”
+Patron: “People who can’t pay their dues, I hear they end up as fodder in the battle arena.”
 
-Zima would ask stuff like “Does the house cheat?”
-“Do you gamble here often?”
-“What can you tell me about the owner of the casino?”
-“Any blackjack tips?”
+Zima: “Do you think the house cheats?”
+Patron: “Everyone knows these games are rigged. But Primorie keeps a clean image for the sake of the government. Probably why they keep the Just around.”
+
+Zima: “Any blackjack tips?”
+Patron: “Yeah: a draw is better than a loss.”
+  Patron: “They only use one suit in Primorie, so counting cards isn’t as hard as you might think.”
+Patron: “Don’t be afraid to surrender a bad hand.”
+Patron: “You don’t have to win, the dealer just has to lose.”
+Patron: “The first round isn’t important. Each one after matters more than the last.”
+
+Zima: “What can you tell me about the owner of the casino?”
+Patron: “Primorie himself? Guy fancies himself a playboy. If you meet him, you’re either a big-timer, or you’re going to get thrown out.”
 
 Talk to Leto:
 Ask about power:
-Zima: “How does your mind power work?”
+Zima: “Tell me about your mind powers.”
 Leto: “It’s like your Brainjack, but more subtle.”
-Leto: “I can send people subliminal commands and read their thoughts.”
+Leto: “I can send people subliminal commands and read their thoughts, in fragments.”
 Leto: “If necessary, I can send a violent scramble to disorient a foe.”
 
 Ask about King:
@@ -3844,7 +3860,7 @@ Leto works conversations</Text>
 -Leto changes her relationship with the casino
 -”Here’s the deal: we don’t drive your ass out of town, and you let us walk out of here with the key.”
 -”If I’m going to keep an eye around here, things are going to have to change.”
--A compromise between Zima’s hard ass attitude, and Leto going soft. Her returning to her old form—not being afraid to play hardball in order to maintain peace.
+-A compromise between Zima’s hard-ass attitude, and Leto going soft. Her returning to her old form—not being afraid to play hardball in order to maintain peace.
 
 -Talk to Leto and patrons, get the idea that the place is still quite corrupt. Cheating hands, beating people who can’t pay their debts, that sort of thing.
 -Bring these topics up to the cashier, ask him about Leto
