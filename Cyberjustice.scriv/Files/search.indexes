@@ -3715,30 +3715,7 @@ Ask about Primorie:
   (Leto’s voice echoes through my mind. Her eyes are closed and her lips stay pursed with a hint of a smile.)
   (”Tricks like this. Powers of suggestion. Could change your luck.”)
 “It takes all my focus so I can’t play at the same time. I need you on this.”
-“My my. But if things get hairy, all bets are off.”
-
-“The goal of Blackjack is to get as close to a card value total of 21 without going any higher. Face cards are worth ten, and aces can be worth either one or eleven. If you reach 21, you instantly win.”
-“Otherwise, you may continue drawing cards until you choose to keep your value and see if your score beats the dealer’s, or you go over 21 and lose the hand.”
-“’Hit’ will draw another card and ‘Stay’ keeps your hand to compare against the dealer’s.”
-
-—
-Playing a table for the Key
--
-First time:
-Zima: “If we’re playing by your rules, we need a way to bring Primorie out to see us. Winning tons of royals at one table will get his attention.”
-“Blackjack will be the best game since the hands are quick.”
-Leto: “Then you’d better go all-in on each hand. And make no mistakes.”
-“During a round of cards I can show you the top card of the deck, and any face-down cards on the table.”
-“I can also persuade the dealer to draw an extra card per round. Anything more than that and it would expose our cover.”
-“I have to stay close to the table and keep my eyes closed for the ability to work.”
-“Here, take my chips to start you off, and don’t think about gambling these on anything other than the key.”
-
-“Deal me.”
-[Blackjack round one]
-[Zima and Leto have brief conversations during each blackjack game]
-
-Leto trying to profile Zima. “I haven’t quite figured you out… do you prefer ___? What do you really make of ___, I wonder?”
-Leto works conversations</Text>
+“My my. But if things get hairy, all bets are off.”</Text>
         </Document>
         <Document ID="69">
             <Title>casino</Title>
@@ -3847,13 +3824,6 @@ Leto works conversations</Text>
 
 -Leto gives Zima some advice and maybe a stat boost? Wouldn’t that be neat?
 
-
--Player needs to be able to return to gamble
--how?
--two options: The casino owner needs to be replaced
--or Zima can’t piss off the owner permanently
--which means if Zima can’t piss off the owner, there can be no fight
-
 -consider similarities to the Nightclub section
 -In the nightclub, Zima fights the owner. Makes sense, because you don’t need to return to the nightclub
 -Zima defeats the owner and another takes his place?
@@ -3866,6 +3836,31 @@ Leto works conversations</Text>
 -Bring these topics up to the cashier, ask him about Leto
 -Ask Leto about casino owner, different Justs
 -Even the dealer’s language can reflect that Leto is a regular and a valued: “And the hand goes to our lovely Justs.” “Brought a friend along to play, Leto?”</Text>
+        </Document>
+        <Document ID="76">
+            <Title>Casino Tables</Title>
+            <Text>“The goal of Blackjack is to get as close to a card value total of 21 without going any higher. Face cards are worth ten, and aces can be worth either one or eleven. If you reach 21, you instantly win.”
+“Otherwise, you may continue drawing cards until you choose to keep your value and see if your score beats the dealer’s, or you go over 21 and lose the hand.”
+“’Hit’ will draw another card and ‘Stay’ keeps your hand to compare against the dealer’s.”
+
+—
+Playing a table for the Key
+-
+First time:
+Zima: “If we’re playing by your rules, we need a way to bring Primorie out to see us. Winning tons of royals at one table will get his attention.”
+“Blackjack will be the best game since the hands are quick.”
+Leto: “Then you’d better go all-in on each hand. And make no mistakes.”
+“During a round of cards I can show you the top card of the deck, and any face-down cards on the table.”
+“I can also persuade the dealer to draw an extra card per round. Anything more than that and it would expose our cover.”
+“I have to stay close to the table and keep my eyes closed for the ability to work.”
+“Here, take my chips to start you off, and don’t think about gambling these on anything other than the key.”
+
+“Deal me.”
+[Blackjack round one]
+[Zima and Leto have brief conversations during each blackjack game]
+
+Leto trying to profile Zima. “I haven’t quite figured you out… do you prefer ___? What do you really make of ___, I wonder?”
+Leto works conversations</Text>
         </Document>
     </Documents>
 </SearchIndexes>
