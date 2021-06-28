@@ -3610,7 +3610,7 @@ GO TO TABLES
 EXIT TO MAP
 
 Check room:
-Zima: ()
+Zima: (There’s the hum of a jazz band and the clatter of slot machines coming from inside.)
 
 Talk to cashier:
 Cashier: “
@@ -3712,9 +3712,9 @@ Ask about Primorie:
 “You wish for something from this casino’s owner. I say why risk our lives, and more importantly, those of these innocent patrons, when you can beat this casino at its own game.”
   “And leverage my skills as a Just.”
 “And what would those skills be, beyond parlor card tricks?”
-  (Leto’s voice echoes through my mind. Her eyes are closed and her lips stay pursed with a hint of a smile.)
+  (Leto’s voice hums through my skull. Her eyes are closed and her lips stay pursed with a hint of a smile.)
   (”Tricks like this. Powers of suggestion. Could change your luck.”)
-“It takes all my focus so I can’t play at the same time. I need you on this.”
+“It takes all my focus, so I can’t play cards at the same time. I need your cooperation.”
 “My my. But if things get hairy, all bets are off.”</Text>
         </Document>
         <Document ID="69">
@@ -3835,7 +3835,14 @@ Ask about Primorie:
 -Talk to Leto and patrons, get the idea that the place is still quite corrupt. Cheating hands, beating people who can’t pay their debts, that sort of thing.
 -Bring these topics up to the cashier, ask him about Leto
 -Ask Leto about casino owner, different Justs
--Even the dealer’s language can reflect that Leto is a regular and a valued: “And the hand goes to our lovely Justs.” “Brought a friend along to play, Leto?”</Text>
+-Even the dealer’s language can reflect that Leto is a regular and a valued: “And the hand goes to our lovely Justs.” “Brought a friend along to play, Leto?”
+
+Have Leto pull a Psycho Mantis and read the player’s info:
+-How many times they’ve saved “You’re cautious, aren’t you?”
+-How many times they’ve arrested v killed
+-How much money they’ve saved
+-How many times you’ve game overed
+-What difficulty you’re playing on</Text>
         </Document>
         <Document ID="76">
             <Title>Casino Tables</Title>
@@ -3854,10 +3861,46 @@ Leto: “Then you’d better go all-in on each hand. And make no mistakes.”
 “I can also persuade the dealer to draw an extra card per round. Anything more than that and it would expose our cover.”
 “I have to stay close to the table and keep my eyes closed for the ability to work.”
 “Here, take my chips to start you off, and don’t think about gambling these on anything other than the key.”
+***
 
 “Deal me.”
 [Blackjack round one]
 [Zima and Leto have brief conversations during each blackjack game]
+Leto: “So Zima, do you play cards often?”
+Leto: “You’re not bad, with my assistance.”
+Leto: “I’m trying to figure out your position. Why, I wonder, did King Yor choose you to be the closest Just to the Prince?”
+  Leto: “Not that I doubt your prowess, mind you. You’re quite the capable fighter. But why young Zima, out of any other potential girl in the Kingdom?”
+Zima: “Let me ask why you feel the need to profile everyone you meet.”
+Leto: “Just a bad habit of mine. No need to answer me, darling.”
+  Zima: “Good. I wasn’t planning to.”
+
+[Round one win]
+Zima: “There, we’ve doubled our money.”
+Leto: “We should have enough to wager for the key in a few more rounds.”
+Zima: (A man in a suit whispers something into the dealer’s ear and he steps behind a curtain. Another dealer takes his place. Two more men in suits approach the table.)
+Dealer: “Congratulations to the white-haired woman. You must be very lucky.”
+  Zima: “My luck’s been changing all day.”
+Zima: “Primorie can’t take a loss like that lightly. Let me guess—the men around us are going to rob us at gunpoint? Take us out discreetly out back?”
+Zima: “I wouldn’t try it.”
+Zima: (The tension in the room is palpable. Even the live band stops playing.)
+Leto: “Zima please. We’re not barbarians.”
+Zima: (Leto smiles and holds up her hand. Her lips move without opening. My muscles relax and I feel calmer, as if the caution was sucked out. The music in the room resumes and the men in suits return to their positions.)
+Dealer: “Congratulations to the white-haired woman. You must be very lucky. Care to play another?”
+Zima: (I try to think of something to say but Leto snaps at me, like lecturing a petulant child.)
+Leto: “You said we were going to do things my way. Think you’ll have an easy time blasting this building to pieces?”
+  Zima: “No, but it would be nothing new to me.”
+  Leto: “And if Primorie doesn’t keep the key here?”
+  Leto: “You’re a bull in a china shop. I’m well aware of how you and the other Justs handle things and I don’t like it.”
+Zima: (Leto sighs.)
+Leto: “Think of me as a balancing agent. When you inevitably get yourself killed in the line of duty, I’ll be the one picking up the pieces.”
+  Zima: “I don’t die so easily.”
+Leto: “A Just dying isn’t unheard of. Remember Mycoh? (Monsoon) She died taking on a tank to protect Vesna. And now Vesna's on the path to die a hero's death as well.”
+Leto: “We’re the first generation of Justs. We set precedents, not follow them.”
+Leto: “ll I ask is you employ a little more tact. Sometimes keeping order can be more important than doing the right thing.”
+[Return to hand]
+
+
+***
 
 Leto trying to profile Zima. “I haven’t quite figured you out… do you prefer ___? What do you really make of ___, I wonder?”
 Leto works conversations</Text>
